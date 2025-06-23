@@ -8,22 +8,22 @@
 
 An intelligent email management system powered by Spring Boot and Gemini AI. This assistant helps you handle emails more efficiently via:
 
-- 🌐 A **Web Application** (React + Spring Boot)
-- 🧩 A **Chrome Browser Extension**
-- 🤖 **Google Gemini API Integration** for smart replies, summaries, and tone detection
+-  A **Web Application** (React + Spring Boot)
+-  A **Chrome Browser Extension**
+-  **Google Gemini API Integration** for smart replies, summaries, and tone detection
 
 ---
 
 ## 🧠 Key Features
 
-- ✉️ **AI-Generated Email Responses** — Instantly draft professional, context-aware replies
-- 📁 **Email Categorization** — Auto-classify emails (e.g., Work, Spam, Social)
-- 🧾 **Summarization** — Convert lengthy email threads into brief, readable summaries
-- 🗣️ **Sentiment Detection** — Understand the tone of incoming messages
+-  **AI-Generated Email Responses** — Instantly draft professional, context-aware replies
+-  **Email Categorization** — Auto-classify emails (e.g., Work, Spam, Social)
+-  **Summarization** — Convert lengthy email threads into brief, readable summaries
+-  **Sentiment Detection** — Understand the tone of incoming messages
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Layer         | Tech Stack                     |
 |---------------|--------------------------------|
@@ -37,15 +37,15 @@ An intelligent email management system powered by Spring Boot and Gemini AI. Thi
 
 ---
 
-## 📦 How to Run Locally
+##  How to Run Locally
 
-### 🔧 1. Clone the repository
+###  1. Clone the repository
 ```bash
 git clone https://github.com/yamini749/Spring-AI-Email-Generator.git
 cd Spring-AI-Email-Generator
 ```
 
-### ⚙️ 2. Backend Setup (Spring Boot)
+###  2. Backend Setup (Spring Boot)
 Create `application.yml` inside `src/main/resources/`
 
 ```yaml
@@ -64,7 +64,7 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-### 🎨 3. Frontend Setup (React)
+###  3. Frontend Setup (React)
 If the frontend is in a separate folder:
 ```bash
 cd frontend
@@ -74,7 +74,7 @@ npm start
 
 ---
 
-## 📮 Testing with Postman
+##  Testing with Postman
 
 Use the following endpoints to interact with the API:
 
