@@ -1,6 +1,6 @@
 # 🌟 Spring AI Email Assistant
 
-**Frontend:** React | **AI Engine:** Gemini API | **Backend:** Spring Boot | **Extension:** Chrome
+**Frontend:** React | **AI Engine:** Google Gemini API | **Backend:** Spring Boot | **Extension:** Chrome
 
 ---
 
